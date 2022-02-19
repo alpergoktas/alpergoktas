@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alper.
+- 👀 I’m interested in tech & coding.
+- 🌱 I’m currently learning Python and HTML & CSS.
